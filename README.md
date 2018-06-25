@@ -2,7 +2,7 @@
 
 This is the result of the [Ember Tutorial](https://guides.emberjs.com/release/tutorial/ember-cli/)
 
-![Super Rentals Project](https://raw.githubusercontent.com/dnstld/ember-super-rentals/assets/images/style-super-rentals-maps.jpg)
+![Super Rentals Project](https://raw.githubusercontent.com/dnstld/ember-super-rentals/public/assets/images/style-super-rentals-maps.png)
 
 ## Prerequisites
 
