@@ -1,6 +1,6 @@
-# ember-super-rentals
+# Super Rentals
 
-This is the result of the [Ember Tutorial](https://guides.emberjs.com/release/tutorial/ember-cli/)
+This is the result of the [Ember Tutorial Project](https://guides.emberjs.com/release/tutorial/ember-cli/)
 
 ![Super Rentals Project](https://raw.githubusercontent.com/dnstld/ember-super-rentals/master/public/assets/images/style-super-rentals-maps.png)
 
