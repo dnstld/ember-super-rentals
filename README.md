@@ -1,8 +1,8 @@
 # Super Rentals
 
-This is the result of the [Ember Tutorial Project](https://guides.emberjs.com/release/tutorial/ember-cli/)
+Result of the [Ember Tutorial Project](https://dnstld-super-rentals.herokuapp.com/)
 
-![Super Rentals Project](https://raw.githubusercontent.com/dnstld/ember-super-rentals/master/public/assets/images/style-super-rentals-maps.png)
+![Super Rentals Project](https://raw.githubusercontent.com/dnstld/ember-super-rentals/master/public/assets/images/super-rentals.png)
 
 ## Prerequisites
 
