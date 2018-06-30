@@ -11,7 +11,10 @@ module('Integration | Helper | rental-property-type', function(hooks) {
   
     await render(hbs`{{rental-property-type inputValue}}`);
 
-    assert.equal(this.element.textContent.trim(), 'Standalone');
+    assert.equal(
+      this.element.textContent.trim(),
+      'Standalone'
+    );
   });
 
   test('it renders correctly for a Community rental', async function(assert) {
@@ -19,6 +22,9 @@ module('Integration | Helper | rental-property-type', function(hooks) {
 
     await render(hbs`{{rental-property-type inputValue}}`);
 
-    assert.equal(this.element.textContent.trim(), 'Community');
+    assert.equal(
+      this.element.textContent.trim(),
+      'Community'
+    );
   });
 });
